@@ -11,43 +11,42 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+- **Languages**: Python (Basics), Java (Basics), JavaScript  
+- **Frontend**: HTML, CSS, React  
+- **Backend & Database**: Node.js, Express.js, MongoDB, SQL  
+- **OS**: Windows, Linux  
+- **Security Tools**: Nmap, Wireshark, Metasploit, Maltego, XHydra, Netcat, SET  
+- **Cyber Domains**: Penetration Testing, Digital Forensics, AI Threat Detection
+
+---
+
+## 📜 Certifications
+
+- ✅ **HTML, CSS, JavaScript** – *Apna College*  
+- ✅ **MERN Stack Development** – *Apna College*  
+- ✅ **Google Cybersecurity Professional Certificate** – *Coursera*
+
+---
+
 ## 🚀 Projects
 
 ### 🔐 Password Strength Checker with AI Feedback  
 📅 *Jun 28, 2025 – Jul 1, 2025*  
-🛠️ **Tech Used**: HTML, CSS, JavaScript, Python (Flask), Regex, Bootstrap  
+🛠️ HTML, CSS, JavaScript, Python (Flask), Regex, Bootstrap  
 🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/Password_Strength_Checker)
 
-> A web tool that evaluates password strength in real-time and provides GPT-style feedback using dictionary-based pattern recognition, entropy scoring, and AI-style tips for improvement. User-friendly and educational for both tech and non-tech users.
+> A tool that checks password strength using pattern recognition, entropy scoring & GPT-style AI feedback. Educates users on how to create strong passwords.
 
 ---
 
 ### 🛡️ Simple Web Vulnerability Scanner  
 📅 *Jun 23, 2025 – Jun 28, 2025*  
-🛠️ **Tech Used**: Python, Flask, Bootstrap, XSS, SQL Injection, Git  
+🛠️ Python, Flask, Bootstrap, Git, XSS, SQL Injection  
 🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/vulnerability-scanner)
 
-> A Flask-based app that detects XSS and SQL Injection flaws using test payloads. Built to raise awareness and teach web security basics. Includes beginner-friendly UI and real-time scan summaries.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-E5E5E5?style=flat&logo=regular-expression&logoColor=black)
-
-**Frontend & UI**  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Security Tools**  
-🛡️ XSS & SQLi Payloads, Web Vulnerability Detection, Regex-based Validation, Git
+> A Flask-based web app that detects basic web vulnerabilities like XSS and SQLi. Built for students to learn how flaws are found and mitigated.
 
 ---
 
@@ -69,10 +68,10 @@
 
 ## 🎯 Interests & Hobbies
 
-- Building Full-Stack Web Projects
-- Cybersecurity & Ethical Hacking
+- Full-Stack Project Building
+- Ethical Hacking & Vulnerability Analysis
 - UI/UX Design
-- Tech & Fiction Books
+- Tech & Fiction Reading 📚
 - Music 🎵 | Travel ✈️ | Sports 🏏
 
 ---
@@ -91,7 +90,4 @@
 
 ---
 
-_Thanks for stopping by! Let's secure the web together! 🔒_
-
-
-
+_Thanks for visiting! Let’s build, break, and secure the web together 🔐_
