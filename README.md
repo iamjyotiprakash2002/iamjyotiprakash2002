@@ -1,87 +1,97 @@
-## Hi there 👋
+# 👋 Hey there, I'm Jyotiprakash Panda!
 
-<!--
-**iamjyotiprakash2002/iamjyotiprakash2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Student (Computer Science & Engineering)  
+🛡️ Specializing in Cybersecurity | Full-Stack Web Developer  
+🔎 Passionate about Ethical Hacking, Web Security & Secure Application Development  
+🌐 Bhubaneswar, Odisha, India  
+📧 iamjyotiprakashpanda2002@gmail.com | 📱 +91-9437130269
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi there, I'm [Your Name]!
-
-🎓 **Final Year B.Tech Cybersecurity Student**  
-💻 Passionate about Security, Full-Stack Development & Ethical Hacking  
-🔍 Always exploring new technologies & building cool stuff  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Frontend**:  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend**:  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Database**:  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-**Tools & OS**:  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotiprakash-panda-22620a278)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/iamjyotiprakash2002)
 
 ---
 
 ## 🚀 Projects
 
-### 🔐 Secure Chat App  
-> A real-time chat application with AES/RSA encryption using React, Node.js, and Socket.io.  
-> ✅ JWT Auth | AES/RSA | Phishing URL detection  
-[🔗 GitHub Repo](https://github.com/yourusername/secure-chat-app)
+### 🔐 Password Strength Checker with AI Feedback  
+📅 *Jun 28, 2025 – Jul 1, 2025*  
+🛠️ **Tech Used**: HTML, CSS, JavaScript, Python (Flask), Regex, Bootstrap  
+🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/Password_Strength_Checker)
 
-### 🎯 Social Engineering Simulation Platform  
-> Awareness and simulation platform using SET, Maltego, and React.  
-> ✅ Phishing, Data Collection, Real-World Simulation  
-[🔗 GitHub Repo](https://github.com/yourusername/se-awareness)
+> A web tool that evaluates password strength in real-time and provides GPT-style feedback using dictionary-based pattern recognition, entropy scoring, and AI-style tips for improvement. User-friendly and educational for both tech and non-tech users.
 
-### 🛡️ Web Vulnerability Scanner  
-> Built a simple scanner using Python and requests, scanning for common web flaws.  
-> ✅ XSS, SQLi, Open Ports  
-[🔗 GitHub Repo](https://github.com/yourusername/web-vuln-scanner)
+---
+
+### 🛡️ Simple Web Vulnerability Scanner  
+📅 *Jun 23, 2025 – Jun 28, 2025*  
+🛠️ **Tech Used**: Python, Flask, Bootstrap, XSS, SQL Injection, Git  
+🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/vulnerability-scanner)
+
+> A Flask-based app that detects XSS and SQL Injection flaws using test payloads. Built to raise awareness and teach web security basics. Includes beginner-friendly UI and real-time scan summaries.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-E5E5E5?style=flat&logo=regular-expression&logoColor=black)
+
+**Frontend & UI**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Security Tools**  
+🛡️ XSS & SQLi Payloads, Web Vulnerability Detection, Regex-based Validation, Git
+
+---
+
+## 📘 Education
+
+**B.Tech – Computer Science & Engineering**  
+*Institute of Technical Education and Research, Bhubaneswar (2022–2026)*  
+📊 Percentage: 76.78%
+
+**12th – CHSEO**  
+*Newtonian Higher Secondary School, Balasore (2019)*  
+📊 Percentage: 79%
+
+**10th – BSEO**  
+*Dinabandhu Uchha Bidyapitha Attapur, Balasore (2017)*  
+📊 Percentage: 86.33%
+
+---
+
+## 🎯 Interests & Hobbies
+
+- Building Full-Stack Web Projects
+- Cybersecurity & Ethical Hacking
+- UI/UX Design
+- Tech & Fiction Books
+- Music 🎵 | Travel ✈️ | Sports 🏏
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Jyotiprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjyotiprakash2002&show_icons=true&theme=github_dark)
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-📧 Email: your.email@example.com  
-🌐 Portfolio: [yourname.github.io](https://yourname.github.io) _(Optional)_
+- 📫 Email: iamjyotiprakashpanda2002@gmail.com  
+- 🌍 GitHub: [github.com/iamjyotiprakash2002](https://github.com/iamjyotiprakash2002)  
+- 💼 LinkedIn: [linkedin.com/in/jyotiprakash-panda-22620a278](https://linkedin.com/in/jyotiprakash-panda-22620a278)
 
 ---
 
-_Thanks for visiting my profile! 😊_
+_Thanks for stopping by! Let's secure the web together! 🔒_
+
+
 
