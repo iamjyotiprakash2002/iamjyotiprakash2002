@@ -40,3 +40,40 @@
 + Security Tools:  Nmap | Metasploit | XHydra | Maltego | Wireshark
 + Languages:       JavaScript | Python | Java (Basics)
 + OS & IDEs:       Kali Linux | Windows | VS Code | GitHub | Netcat | SET
+
+🚀 Projects Showcase
+Project	Description	Tech Stack	Link
+🔐 Password Strength Checker	AI-style feedback with password entropy & dictionary-based scoring	HTML, JS, Flask, Regex	Repo
+🛡️ Web Vulnerability Scanner	Scans for XSS & SQLi with Bootstrap UI	Python, Flask, Jinja2	Repo
+
+📜 Certifications
+🧑‍💻 HTML, CSS, JavaScript – Apna College
+
+💻 MERN Stack Development – Apna College
+
+🛡️ Google Cybersecurity Professional Certificate – Coursera
+
+📊 GitHub Stats & Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamjyotiprakash2002&show_icons=true&theme=radical" /> <br /> <img src="https://streak-stats.demolab.com/?user=iamjyotiprakash2002&theme=tokyonight" /> <br /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjyotiprakash2002&theme=react-dark&bg_color=0D1117&color=F8D866&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/> </p>
+🎯 Interests & Hobbies
+🎨 UI/UX | 🛡️ Pentesting | 📚 Tech Books
+🎧 Music | ✈️ Travel | 🧩 Brain Games
+
+🦾 Terminal Vibes
+bash
+Copy
+Edit
+> whoami
+> iamjyotiprakash2002
+
+> skills --list
+> ['Cybersecurity', 'MERN Stack', 'Ethical Hacking', 'Vulnerability Scanning', 'UI/UX', 'Python', 'Git']
+
+> goals
+> "Build, Break, Secure, Repeat 🔁"
+📬 Let’s Connect
+📫 Email: iamjyotiprakashpanda2002@gmail.com
+🔗 GitHub: @iamjyotiprakash2002
+💼 LinkedIn: jyotiprakash-panda
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> ```
