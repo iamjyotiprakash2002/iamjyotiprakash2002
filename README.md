@@ -1,13 +1,22 @@
-# 👋 Hey there, I'm Jyotiprakash Panda!
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Jyotiprakash+Panda;Cybersecurity+%7C+Full-Stack+Developer;Always+Learning+and+Building!" alt="Typing SVG" />
+</h1>
 
-🎓 Final Year B.Tech Student (Computer Science & Engineering)  
-🛡️ Specializing in Cybersecurity | Full-Stack Web Developer  
-🔎 Passionate about Ethical Hacking, Web Security & Secure Application Development  
-📍 Bhubaneswar, Odisha, India  
-📧 iamjyotiprakashpanda2002@gmail.com | 📱 +91-9437130269
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> 
+  <strong>Final Year B.Tech CSE | Cybersecurity Enthusiast | MERN Developer</strong>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotiprakash-panda-22620a278)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamjyotiprakash2002)
+<p align="center">
+  <a href="https://linkedin.com/in/jyotiprakash-panda-22620a278">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/iamjyotiprakash2002">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iamjyotiprakash2002&label=Visitors&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
@@ -43,7 +52,7 @@
 ![Maltego](https://img.shields.io/badge/Maltego-1E1E1E?style=flat&logoColor=white)
 ![XHydra](https://img.shields.io/badge/XHydra-000000?style=flat&logo=kalilinux&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-4B8BBE?style=flat&logo=gnome-terminal&logoColor=white)
-![SET](https://img.shields.io/badge/Social%20Engineering%20Toolkit-FF5733?style=flat&logo=security&logoColor=white)
+![SET](https://img.shields.io/badge/SET-FF5733?style=flat&logo=security&logoColor=white)
 
 ---
 
@@ -59,19 +68,17 @@
 
 ### 🔐 Password Strength Checker with AI Feedback  
 📅 *Jun 28 – Jul 1, 2025*  
-🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/Password_Strength_Checker)  
-🛠️ HTML | CSS | JS | Python (Flask) | Bootstrap | Regex
+🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/Password_Strength_Checker)
 
-> Checks password strength using AI-style feedback and pattern recognition, giving users real-time insights and improvement tips.
+> 🔐 Checks password strength using AI-style feedback and pattern recognition, giving users real-time insights and improvement tips.
 
 ---
 
 ### 🛡️ Simple Web Vulnerability Scanner  
 📅 *Jun 23 – Jun 28, 2025*  
-🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/vulnerability-scanner)  
-🛠️ Python | Flask | Bootstrap | SQLi & XSS Detection
+🔗 [GitHub Repo](https://github.com/iamjyotiprakash2002/vulnerability-scanner)
 
-> A Flask-based app that identifies web vulnerabilities (XSS/SQLi) with beginner-friendly UI and live feedback.
+> 🛡️ Flask-based app that identifies XSS & SQLi with UI, scan summary, and educational purpose.
 
 ---
 
@@ -82,37 +89,40 @@
 📊 Percentage: 76.78% | *(2022–2026)*
 
 **12th – CHSEO**  
-*Newtonian Higher Secondary School, Balasore*  
-📊 79%
-
+*Newtonian Higher Secondary School, Balasore* | 📊 79%  
 **10th – BSEO**  
-*Dinabandhu Uchha Bidyapitha Attapur, Balasore*  
-📊 86.33%
+*Dinabandhu Uchha Bidyapitha Attapur, Balasore* | 📊 86.33%
 
 ---
 
 ## 🎯 Interests & Hobbies
 
 🎨 UI/UX Design  
-🛡️ Cybersecurity & Ethical Hacking  
-🌐 Full-Stack Projects  
+🛡️ Ethical Hacking & Security Research  
+🌐 Building Full-Stack Projects  
+📚 Tech & Fiction Books  
 🎵 Music | ✈️ Travel | 🏏 Sports  
-📖 Tech & Fiction Books
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Graphs
 
-![Jyotiprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjyotiprakash2002&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamjyotiprakash2002&show_icons=true&theme=github_dark" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjyotiprakash2002&theme=dark" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamjyotiprakash2002&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
-- 📫 **Email**: iamjyotiprakashpanda2002@gmail.com  
-- 💻 **GitHub**: [iamjyotiprakash2002](https://github.com/iamjyotiprakash2002)  
-- 🔗 **LinkedIn**: [jyotiprakash-panda](https://linkedin.com/in/jyotiprakash-panda-22620a278)
+📫 Email: **iamjyotiprakashpanda2002@gmail.com**  
+🌍 GitHub: [**@iamjyotiprakash2002**](https://github.com/iamjyotiprakash2002)  
+💼 LinkedIn: [**jyotiprakash-panda**](https://linkedin.com/in/jyotiprakash-panda-22620a278)
 
 ---
 
-_Thanks for visiting my profile! Let’s build, break, and secure the web together 🔐_
+_Thanks for visiting! Let’s build, break, and secure the web together 🚀_
