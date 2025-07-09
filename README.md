@@ -95,6 +95,12 @@
 
 ---
 
+## 📬 Let's Connect
+
+- 📫 **Email**: iamjyotiprakashpanda2002@gmail.com  
+- 💻 **GitHub**: [iamjyotiprakash2002](https://github.com/iamjyotiprakash2002)  
+- 🔗 **LinkedIn**: [jyotiprakash-panda](https://linkedin.com/in/jyotiprakash-panda-22620a278)
+
 ## 🖥️ Terminal Peek
 
 ```bash
@@ -107,9 +113,4 @@
 > mission
 > "Build • Break • Secure • Repeat 🔁"
 
-## 📬 Let's Connect
-
-- 📫 **Email**: iamjyotiprakashpanda2002@gmail.com  
-- 💻 **GitHub**: [iamjyotiprakash2002](https://github.com/iamjyotiprakash2002)  
-- 🔗 **LinkedIn**: [jyotiprakash-panda](https://linkedin.com/in/jyotiprakash-panda-22620a278)
 
