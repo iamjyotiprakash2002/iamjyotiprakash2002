@@ -19,10 +19,11 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
 
-- 🎓 Final Year B.Tech CSE @ ITER  
+- 🎓 Final Year B.Tech CSE (Cybersecurity) @ ITER, SOA University  
 - 🛡️ Cybersecurity Enthusiast | MERN Stack Developer  
-- 💬 Passionate about hacking, building, and securing apps  
-- 🌐 Based in Bhubaneswar, India 🇮🇳
+- 🔍 Hands-on experience in **SOC operations, SIEM monitoring, log analysis & incident response**  
+- 💬 Passionate about hacking, building, and securing applications  
+- 🌐 Based in Bhubaneswar, India 🇮🇳  
 
 ---
 
@@ -61,25 +62,48 @@
 ![XHydra](https://img.shields.io/badge/-XHydra-6D2C91?style=flat-square)
 ![Netcat](https://img.shields.io/badge/-Netcat-2C3539?style=flat-square)
 ![SET](https://img.shields.io/badge/-Social%20Eng%20Toolkit-8A2BE2?style=flat-square)
+![Nikto](https://img.shields.io/badge/-Nikto-8B0000?style=flat-square)
+![Nessus](https://img.shields.io/badge/-Nessus-00C176?style=flat-square)
+![Snort](https://img.shields.io/badge/-Snort-FF4500?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat-square)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square)
 
 ---
 
 ## 🧩 Certifications
 
-![Apna College](https://img.shields.io/badge/Apna%20College-MERN-blue?style=flat-square&logo=verizon)
-![Coursera](https://img.shields.io/badge/Coursera-Cybersecurity-0056D2?style=flat-square&logo=coursera)
+![Deloitte](https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-86BC25?style=flat-square)
+![EC-Council](https://img.shields.io/badge/EC--Council-SQL%20Injection%20Attack-red?style=flat-square)
+![Apna College](https://img.shields.io/badge/Apna%20College-MERN-blue?style=flat-square)
+![EY](https://img.shields.io/badge/EY-Cybersecurity%20Bootcamp-yellow?style=flat-square)
+
+---
+
+## 🏢 Experience
+
+### 🛡️ EY Global Delivery Services  
+**Cybersecurity Training Program** *(Jul 2025 – Sep 2025)*  
+- Worked on **Secure Communication Protocols for V2V Networks**
+- Implemented **AES & RSA encryption/decryption**
+- Hands-on with **Python, Socket Programming, Cryptography & IDPS**
+- Exposure to **intrusion detection and secure data transmission**
+
+### 🧠 Infosys HackWithInfy  
+**Participant** *(Jul 2025)*  
+- Qualified participant
+- Solved algorithmic and logical coding challenges under time constraints
 
 ---
 
 ## 🚀 Projects
 
-### 🔐 Password Strength Checker  
+### 🔐 Password Strength Checker (AI-powered)  
 [🔗 View Project](https://github.com/iamjyotiprakash2002/Password_Strength_Checker)  
-> Real-time password validation using entropy, dictionary logic, and AI-style feedback.
+> Password evaluation using regex validation, entropy-based scoring, and AI-style improvement feedback.
 
 ### 🛡️ Web Vulnerability Scanner  
 [🔗 View Project](https://github.com/iamjyotiprakash2002/vulnerability-scanner)  
-> Flask app that scans for XSS and SQLi vulnerabilities in web pages.
+> Flask-based scanner to detect **XSS and SQL Injection vulnerabilities** with real-time analysis.
 
 ---
 
@@ -101,6 +125,8 @@
 - 💻 **GitHub**: [iamjyotiprakash2002](https://github.com/iamjyotiprakash2002)  
 - 🔗 **LinkedIn**: [jyotiprakash-panda](https://linkedin.com/in/jyotiprakash-panda-22620a278)
 
+---
+
 ## 🖥️ Terminal Peek
 
 ```bash
@@ -108,9 +134,7 @@
 > iamjyotiprakash2002
 
 > skills
-> [MERN Stack, Ethical Hacking, Cybersecurity, React, Express, Python, MongoDB]
+> [Cybersecurity, SIEM, SOC, Splunk, MERN Stack, Ethical Hacking, Python, SQL]
 
 > mission
 > "Build • Break • Secure • Repeat 🔁"
-
-
